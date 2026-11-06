@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://oksana-gaychuk.ru/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://oksana-gaychuk.ru/img/oksana-gaychuk-vedushchaya-shelekhov-1080.jpg</image:loc><image:title>Ведущая Оксана Гайчук, Шелехов</image:title></image:image>
+    <image:image><image:loc>https://oksana-gaychuk.ru/img/vedushchaya-yubiley-irkutsk-900.jpg</image:loc><image:title>Ведущая на юбилей и свадьбу, Иркутск</image:title></image:image>
+    <image:image><image:loc>https://oksana-gaychuk.ru/img/vedushchaya-korporativ-irkutsk-900.jpg</image:loc><image:title>Ведущая на корпоратив</image:title></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://oksana-gaychuk.ru/img/reel-5-poster.webp</video:thumbnail_loc>
+      <video:title>Юбилей с ведущей Оксаной Гайчук</video:title>
+      <video:description>Фрагмент юбилея, который вела Оксана Гайчук, ведущая праздников в Шелехове и Иркутске.</video:description>
+      <video:content_loc>https://oksana-gaychuk.ru/video/reel-5.mp4</video:content_loc>
+    </video:video>
+  </url>
+</urlset>
